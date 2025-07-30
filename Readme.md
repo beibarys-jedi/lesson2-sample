@@ -11,3 +11,6 @@ Some text about git
 ## Part 3. Python
 
 Some text about python
+### Contacts
+
+Jusan Singularity
